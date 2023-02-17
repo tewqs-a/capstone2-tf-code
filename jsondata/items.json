@@ -1,0 +1,16 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "text": "hey i am in the server"
+      },
+      {
+        "id": 2,
+        "text": "complete bonus milestone"
+      },
+      {
+        "id": 3,
+        "text": "arie added this one"
+      }
+    ]
+  }
